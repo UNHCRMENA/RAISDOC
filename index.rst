@@ -3,6 +3,9 @@ Welcome to RAIS
 
 **Refugee Assistance Information System**
 
+1. This is a numbered list.
+2. It has two items too.
+
 #. Introduction
 This manual serves as a guide for users of the Refugee Assistance Information System (RAIS) v2. RAIS has been developed to store, process, share, and analyse information on assistance provided to refugees, asylum-seekers, and other persons of concern. Assistance types recorded on RAIS are implemented either directly by UNHCR and/or NGOs and local organisations in partnership with UNHCR. A separate manual for administrators of RAIS has been developed and is available upon request.
 
