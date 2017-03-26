@@ -3,10 +3,10 @@ Welcome to RAIS
 
 **Refugee Assistance Information System**
 
-1. Introduction
+#. Introduction
 This manual serves as a guide for users of the Refugee Assistance Information System (RAIS) v2. RAIS has been developed to store, process, share, and analyse information on assistance provided to refugees, asylum-seekers, and other persons of concern. Assistance types recorded on RAIS are implemented either directly by UNHCR and/or NGOs and local organisations in partnership with UNHCR. A separate manual for administrators of RAIS has been developed and is available upon request.
 
-1.1. Background 
+#.#. Background 
 RAIS is a secure web-based assistance management platform used by UNHCR, implementing partners, and donors to ensure effective tracking of assistance, enhanced accountability, and reduced duplication of efforts.  
 
 RAIS was initially developed by UNHCR Jordan in 2009 to address the demands for a more coordinated approach by partners delivering refugee assistance. In 2009 refugee assistance targeted Iraqi refugees and included healthcare, education, and material assistance packages. Following its success in Jordan, RAIS was later rolled-out in Lebanon and Syria as part of efforts to share ‘best-practices’ across the region. In 2012 a review of the system and current operational needs was conducted which led to the release of RAIS v2. In 2014 new modules were incorporated into RAIS including the vulnerability assessment framework, assessment management, and offline functionalities. In 2016 RAIS continued to enhance with additional modules for assistance coordination, referrals and ticketing.    
