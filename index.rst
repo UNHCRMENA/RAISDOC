@@ -27,13 +27,14 @@ RAIS can be used for…
 5. Referral and communication between UNHCR and partners. 
 6. Data exploration and analysis.
 
-*RAIS is barcode reader compatible:* the search and recording of core relief items can be achieved by reading pre-designed bar codes, significantly increasing the efficiency of distribution.
+**RAIS is barcode reader compatible:** the search and recording of core relief items can be achieved by reading pre-designed bar codes, significantly increasing the efficiency of distribution.
 
-*RAIS maintains confidentiality and security:* the RAIS server is hosted outside of the UNHCR Field Office LAN. UNHCR and partners can only access RAIS from approved sites with UNHCR access controls.
+**RAIS maintains confidentiality and security:** the RAIS server is hosted outside of the UNHCR Field Office LAN. UNHCR and partners can only access RAIS from approved sites with UNHCR access controls.
 
-*Software as a service:* UNHCR owns the source code and is therefore not bound to any software company. UNHCR staff can modify and use RAIS without any dependence on a software vendor ensuring RAIS remains an adaptable platform.
+**Software as a service:** UNHCR owns the source code and is therefore not bound to any software company. UNHCR staff can modify and use RAIS without any dependence on a software vendor ensuring RAIS remains an adaptable platform.
 
-*The use of RAIS is briefly outlined below:*
+**The use of RAIS is briefly outlined below:**
+
 * Implementing partners update RAIS on an assistance-basis (i.e. when assistance is provided).  
 * Before providing assistance users look into RAIS to ensure that the individual or case has not recently received the same assistance from another partner. This will ensure that beneficiaries do not inappropriately receive similar assistance within the same day/week from another partner. 
 * All assistance funded partially or fully by UNHCR must be entered into RAIS. In order to improve coordination and avoid duplication of efforts, partners are also strongly encouraged to enter non-UNHCR funded assistance into RAIS. 
