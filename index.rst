@@ -34,7 +34,7 @@ RAIS can be used for…
 *Software as a service:* UNHCR owns the source code and is therefore not bound to any software company. UNHCR staff can modify and use RAIS without any dependence on a software vendor ensuring RAIS remains an adaptable platform.
 
 *The use of RAIS is briefly outlined below:*
-- Implementing partners update RAIS on an assistance-basis (i.e. when assistance is provided).  
-- Before providing assistance users look into RAIS to ensure that the individual or case has not recently received the same assistance from another partner. This will ensure that beneficiaries do not inappropriately receive similar assistance within the same day/week from another partner. 
-- All assistance funded partially or fully by UNHCR must be entered into RAIS. In order to improve coordination and avoid duplication of efforts, partners are also strongly encouraged to enter non-UNHCR funded assistance into RAIS. 
-- Any individual approaching an agency, or identified by an agency for assistance, shall be verified on their registration status with UNHCR. 
+* Implementing partners update RAIS on an assistance-basis (i.e. when assistance is provided).  
+* Before providing assistance users look into RAIS to ensure that the individual or case has not recently received the same assistance from another partner. This will ensure that beneficiaries do not inappropriately receive similar assistance within the same day/week from another partner. 
+* All assistance funded partially or fully by UNHCR must be entered into RAIS. In order to improve coordination and avoid duplication of efforts, partners are also strongly encouraged to enter non-UNHCR funded assistance into RAIS. 
+* Any individual approaching an agency, or identified by an agency for assistance, shall be verified on their registration status with UNHCR. 
